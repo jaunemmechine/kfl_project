@@ -16,7 +16,7 @@ npm install express
 npm install mysql
 ```
 ### 效果图
-![Alt text](./images/1.jpg)
+![Alt text](images/1.jpg)
 ![Alt text](./images/2.jpg)
 ![Alt text](./images/3.jpg)
 
